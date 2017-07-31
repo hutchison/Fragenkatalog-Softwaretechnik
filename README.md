@@ -25,3 +25,6 @@ Fragenkatalog für die mündl. Prüfung in Softwaretechnik an der Uni Rostock
 ## Entwurfsmuster
 * Was ist ein Adapter? [Wikipedia](https://de.wikipedia.org/wiki/Adapter_(Entwurfsmuster)), [Youtube](https://youtu.be/c2cq_RGjBKE?t=1h18m34s)
 * Was ist ein Beobachter? [Wikipedia](https://de.wikipedia.org/wiki/Beobachter_(Entwurfsmuster)), [Youtube](https://youtu.be/DLVeTFEkfqI?t=2m9s)
+
+## Testen
+* [Vorlesung zum „Testen und Prüfen“](https://youtu.be/9qTNj9Mbxe4)
